@@ -1,5 +1,6 @@
-
 <br>
+<h4>INTRODUCCION AL PROBLEMA</h4>
+Debido a los incidentes de las últimas semanas, el ayuntamiento de Valencia prevé una subida del precio de la vivienda. ¿Pero cómo saber dónde va a subir mas? ¿Podríamos predecir dónde la gente querrá vivir en el futuro?
 A continuación te doy una breve descripción de lo que encontrarás en este repositorio:
 <br>
 <h4>BBDD</h4>
